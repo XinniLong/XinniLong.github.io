@@ -27,10 +27,11 @@ Her doctoral research — one of the first large-scale mixed-methods comparative
 # Research Interests
 
 - Digital inequality and digital literacy
-- AI adoption in higher education
-- Cross-cultural comparative research (UK and China)
+- Digital citizenship
+- Cross-cultural comparative research
 - Algorithmic imaginaries and AI literacy
 - Educational policy and technology integration
+- Social, political and cultural impacts of digital media
 
 ---
 
