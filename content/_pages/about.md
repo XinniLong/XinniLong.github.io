@@ -18,7 +18,7 @@ news: true
 selected_papers: true
 ---
 
-Xinni Long is a social scientist specialising in digital inequality, digital literacy, and AI adoption in higher education, with a distinctive comparative focus on UK and Chinese institutional contexts. She is currently a Research Associate at the Digital Media and Society Institute (DMSI), University of Liverpool.
+Xinni Long is a social scientist specialising in digital inequality, digital literacy, and AI adoption in higher education, with a distinctive comparative focus on UK and Chinese institutional contexts. She is currently a Research Associate at the Digital Media and Society Institute (DMSI), University of Liverpool, working under the supervision of [Professor Simeon Yates](https://www.liverpool.ac.uk/people/simeon-yates).
 
 Her doctoral research — one of the first large-scale mixed-methods comparative studies of digital competency across UK and Chinese universities — generates evidence-based insights into how institutions design inclusive technology integration strategies. Her work sits at the intersection of communication studies, educational policy, and AI governance.
 
