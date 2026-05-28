@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Xinni Long
+    - name: Email
+      value: xinni@liverpool.ac.uk
     - name: Languages
       value: Chinese (Native), English (Professional)
 
@@ -47,9 +49,10 @@
       description:
         - Designed and led cross-cultural research project across 36 UK and Chinese universities, managing complex stakeholder relationships and dual regulatory approval processes.
         - Conducted large-scale quantitative analysis (n = 1,100) using GLM, MANOVA, chi-square, and factor analysis in SPSS and R.
-        - Conducted 8 semi-structured interviews with educators and 10 focus groups with university students (60+ participants).
-        - Invited to contribute to the UK Government Essential Digital Skills Framework Review Advisory Panel (March 2022).
-    - title: Research Assistant — Towards Digital Inclusivity in the Humanities
+        - Produced an evidence-based analytical framework linking institutional habitus to differential digital competency outcomes, with direct implications for UK higher education policy on digital inclusion and AI integration.
+        - Conducted 8 semi-structured interviews with educators and 10 focus groups with university students (60+ participants), generating rich qualitative data on technology adoption barriers.
+        - Invited to contribute to the UK Government Essential Digital Skills Framework Review Advisory Panel (March 2022), convened by Lloyds Bank on behalf of UKGOV.
+    - title: "Research Assistant — Towards Digital Inclusivity in the Humanities"
       institution: University of Liverpool
       year: Feb 2024-Sep 2024
       description:
@@ -64,44 +67,14 @@
       year: Sep 2023-Sep 2024
       description:
         - Delivered 100+ hours of seminars on research methods (Survey, Interview, Focus group, Discourse Analysis) to 200+ students, achieving 95% satisfaction rating.
-        - Mentored 5 undergraduate dissertation projects.
+        - Mentored 5 undergraduate dissertation projects, developing structured feedback frameworks and project management guidance.
 
-- title: Professional Experience
-  type: time_table
+- title: Publications
+  type: list
   contents:
-    - title: Student Ambassador
-      institution: University of Liverpool
-      year: Sep 2022-Dec 2024
-      description:
-        - Supported university admissions operations and produced video and social media content for official university platforms.
-    - title: Reporter
-      institution: CCTV7 Channel, China
-      year: Apr 2019-Sep 2019
-      description:
-        - Led editorial review of 50+ grassroots reporter submissions monthly for a national audience of 100m+.
-        - Developed digital media strategy increasing channel engagement by 40%.
-    - title: Co-Founder & Producer
-      institution: Physical Drama Production, Edinburgh Fringe Festival
-      year: Feb 2018-Aug 2018
-      description:
-        - Co-initiated theatrical production, achieving 100% ticket sales for 4-day festival run.
-    - title: PR Intern
-      institution: Invigor Communications, UK
-      year: Sep 2018-Dec 2018
-    - title: Intern Journalist
-      institution: East London Lines, UK
-      year: Oct 2017-Dec 2017
-
-- title: Funding and Awards
-  type: time_table
-  contents:
-    - year: 2021-2023
-      items:
-        - CSC Scholarship — Competitive three-year doctoral funding
-    - year: 2015
-      items:
-        - 2nd Prize of "Beautiful New Anchor" Contest, China
-        - 3rd Prize of Yunnan TV International Channel English Host Competition, China
+    - "Long, X., Yates, S., & Polizzi, G. (under peer review). Quantifying the digital inequality: Statistical patterns in technology adoption among educators in UK-China university settings. <i>Big Data & Society</i>."
+    - "Long, X., & Polizzi, G. (under peer review). Algorithmic imaginaries and epistemological boundaries: Reconceptualizing AI literacy through cross-cultural student discourses. <i>Education and Information Technologies</i>."
+    - "Long, X., & Yates, S. (in preparation). Digital literacy as cultural capital: Deconstructing Institutional Habitus in Chinese and British Higher Education Pedagogies. <i>New Media & Society</i>."
 
 - title: Conference Presentations
   type: time_table
@@ -111,6 +84,52 @@
       year: Sep 2023
       description:
         - Presented findings on how digital competency gaps shape educational outcomes and civic participation across distinct political and institutional systems.
+        - ECREA is the leading European association for communication research, with a competitive peer-reviewed selection.
+
+- title: Professional Media Experience
+  type: time_table
+  contents:
+    - title: Reporter
+      institution: CCTV7 Channel, China
+      year: Apr 2019-Sep 2019
+      description:
+        - Led editorial review of 50+ grassroots reporter submissions monthly, ensuring broadcast quality and journalistic standards for a national audience of 100m+.
+        - Developed digital media strategy increasing channel engagement by 40% through targeted content optimisation and cross-platform audience analysis.
+        - Conducted investigative journalism on complex public affairs, translating specialised information into accessible content for diverse audiences.
+    - title: Co-Founder & Producer
+      institution: Physical Drama Production, Edinburgh Fringe Festival
+      year: Feb 2018-Aug 2018
+      description:
+        - "Co-initiated drama society theatrical production 'Painted Skin Returns', conducting market research on 12 contemporary plays and adapting traditional Chinese mythology for international audiences."
+        - Developed integrated marketing strategy and managed cross-cultural stakeholder relations, achieving 100% ticket sales for 4-day festival run.
+    - title: PR Intern
+      institution: Invigor Communications, UK
+      year: Sep 2018-Dec 2018
+      description:
+        - Participated in activity planning and digital marketing research, developed the company website, and ran the WeChat public account.
+    - title: Intern Journalist
+      institution: East London Lines, UK
+      year: Oct 2017-Dec 2017
+      description:
+        - Researched trending regional news, conducted street interviews, and authored news reports.
+        - Gained firsthand understanding of British local journalism practices and editorial standards.
+    - title: Student Ambassador
+      institution: University of Liverpool
+      year: Sep 2022-Dec 2024
+      description:
+        - Supported university admissions operations during clearing periods, liaising with the Head of Admissions.
+        - Produced video and social media content for official university platforms and assisted in coordinating webinars and agent visits.
+
+- title: Funding and Awards
+  type: time_table
+  contents:
+    - year: 2021-2023
+      items:
+        - CSC Scholarship — Competitive three-year doctoral funding demonstrating successful grant acquisition experience
+    - year: 2015
+      items:
+        - 2nd Prize of "Beautiful New Anchor" Contest, China
+        - 3rd Prize of Yunnan TV International Channel English Host Competition, China
 
 - title: Technical Skills
   type: nested_list
@@ -121,3 +140,6 @@
     - title: Digital Media
       items:
         - Content creation, Video production, Social media strategy
+    - title: Research Methods
+      items:
+        - Survey design, Interviews, Focus groups, Discourse analysis, Mixed methods
