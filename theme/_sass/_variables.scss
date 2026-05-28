@@ -1,0 +1,67 @@
+/*******************************************************************************
+ * Variables used throughout the theme.
+ * To adjust anything, simply edit the variables below and rebuild the theme.
+ ******************************************************************************/
+
+// Colors - Anthropic brand palette
+// Based on official Anthropic brand colors from loftlyy.com/en/anthropic
+$red-color: #c41230 !default;
+$red-color-dark: #a00e28 !default;
+$orange-color: #d4760a !default;
+
+// Anthropic Tan: primary warm brand accent (#D4A27F)
+$tan-color: #d4a27f !default;
+$tan-color-light: #e0bfa3 !default;
+$tan-color-dark: #b8885f !default;
+
+// Blues for interactive elements (keeping some for academic site usability)
+$blue-color: #146ef5 !default;
+$blue-color-dark: #0056d6 !default;
+$blue-color-light: #3898ec !default;
+$cyan-color: #d4a27f !default; // Dark mode accent uses tan
+$light-cyan-color: lighten(#d4a27f, 15%);
+$green-color: #0d8050 !default;
+$green-color-lime: #5a8a1c !default;
+$green-color-dark: #0a6b41 !default;
+$green-color-light: #e6f4ec !default;
+$green-color-bright: #0fa968 !default;
+$purple-color: #d4a27f !default; // Light mode accent uses Anthropic Tan
+$light-purple-color: lighten(#d4a27f, 20%);
+$pink-color: #c41230 !default;
+$pink-color-light: #fde8ec !default;
+$yellow-color: #c9960c !default;
+
+// Anthropic Slate: #191919 for text and dark backgrounds
+$grey-color: #8a8580 !default;
+$grey-color-light: #e8e0d8 !default; // Anthropic Warm Gray
+$grey-color-dark: #191919; // Anthropic Slate/Black
+$grey-900: #1f1e1d;
+
+$white-color: #ffffff !default;
+$black-color: #191919 !default; // Anthropic Slate
+
+// Anthropic backgrounds: white primary, warm gray secondary
+$ivory-bg: #ffffff !default; // Anthropic uses pure white background
+$ivory-bg-secondary: #e8e0d8 !default; // Anthropic Warm Gray
+$dark-bg-primary: #191919 !default; // Anthropic Slate
+$dark-bg-secondary: #2a2520 !default; // Warm dark surface
+$dark-bg-code: #1f1e1d !default;
+
+// Theme colors
+
+$code-bg-color-light: rgba(#d4a27f, 0.08);
+$code-bg-color-dark: $dark-bg-code !default;
+
+// Font awesome location
+$fa-font-path: "../webfonts";
+
+// Tabler icons location
+$ti-font-path: "../fonts";
+
+// Back To Top button config
+$back-to-top-z-index: 10;
+$back-to-top-bottom: 30px;
+$back-to-top-right: 30px;
+$back-to-top-diameter: 40px;
+$back-to-top-height: $back-to-top-diameter;
+$back-to-top-width: $back-to-top-diameter;

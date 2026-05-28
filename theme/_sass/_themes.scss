@@ -1,0 +1,145 @@
+/*******************************************************************************
+ * Themes
+ ******************************************************************************/
+
+:root {
+  --global-bg-color: #{$ivory-bg};
+  --global-code-bg-color: #{$code-bg-color-light};
+  --global-text-color: #{$black-color};
+  --global-text-color-light: #{$grey-color};
+  --global-theme-color: #{$purple-color};
+  --global-hover-color: #{$tan-color-dark};
+  --global-hover-text-color: #{$white-color};
+  --global-footer-bg-color: #{$grey-color-dark};
+  --global-footer-text-color: #{$grey-color-light};
+  --global-footer-link-color: #{$white-color};
+  --global-distill-app-color: #{$grey-color};
+  --global-divider-color: rgba(0, 0, 0, 0.08);
+  --global-card-bg-color: #{$white-color};
+  --global-highlight-color: #{$red-color};
+  --global-back-to-top-bg-color: rgba(25, 25, 25, 0.6);
+  --global-back-to-top-text-color: #{$white-color};
+  --global-newsletter-bg-color: #{$white-color};
+  --global-newsletter-text-color: #{$black-color};
+
+  --global-tip-block: #0d8050;
+  --global-tip-block-bg: #e6f4ec;
+  --global-tip-block-text: #0a4a2e;
+  --global-tip-block-title: #0d8050;
+  --global-warning-block: #c9960c;
+  --global-warning-block-bg: #fdf8e8;
+  --global-warning-block-text: #5a4200;
+  --global-warning-block-title: #c9960c;
+  --global-danger-block: #c41230;
+  --global-danger-block-bg: #fde8ec;
+  --global-danger-block-text: #6b0a18;
+  --global-danger-block-title: #c41230;
+
+  #light-toggle-system {
+    padding-left: 10px;
+    padding-top: 12px;
+    display: block;
+  }
+
+  #light-toggle-dark {
+    display: none;
+  }
+
+  #light-toggle-light {
+    display: none;
+  }
+
+  .repo-img-light {
+    display: block;
+  }
+  .repo-img-dark {
+    display: none;
+  }
+
+  #back-to-top {
+    color: var(--global-back-to-top-text-color);
+    background: var(--global-back-to-top-bg-color);
+    bottom: $back-to-top-bottom;
+    right: $back-to-top-right;
+    height: $back-to-top-height;
+    width: $back-to-top-width;
+    z-index: $back-to-top-z-index;
+  }
+}
+
+html[data-theme="dark"] {
+  --global-bg-color: #{$dark-bg-primary};
+  --global-code-bg-color: #{$dark-bg-code};
+  --global-text-color: #e8e0d8;
+  --global-text-color-light: #8a8580;
+  --global-theme-color: #{$tan-color-light};
+  --global-hover-color: #{$tan-color};
+  --global-hover-text-color: #{$dark-bg-primary};
+  --global-footer-bg-color: #0f0f0f;
+  --global-footer-text-color: #8a8580;
+  --global-footer-link-color: #e8e0d8;
+  --global-distill-app-color: #{$grey-color-light};
+  --global-divider-color: rgba(255, 255, 255, 0.08);
+  --global-card-bg-color: #{$dark-bg-secondary};
+  --global-back-to-top-bg-color: rgba(255, 255, 255, 0.15);
+  --global-back-to-top-text-color: #e8e0d8;
+  --global-newsletter-bg-color: #{$dark-bg-secondary};
+  --global-newsletter-text-color: #e8e0d8;
+
+  --global-tip-block: #0fa968;
+  --global-tip-block-bg: rgba(15, 169, 104, 0.12);
+  --global-tip-block-text: #a8e6c8;
+  --global-tip-block-title: #0fa968;
+  --global-warning-block: #d4a836;
+  --global-warning-block-bg: rgba(212, 168, 54, 0.12);
+  --global-warning-block-text: #e8d9a8;
+  --global-warning-block-title: #d4a836;
+  --global-danger-block: #e8384f;
+  --global-danger-block-bg: rgba(232, 56, 79, 0.12);
+  --global-danger-block-text: #f0a8b0;
+  --global-danger-block-title: #e8384f;
+
+  .repo-img-light {
+    display: none;
+  }
+  .repo-img-dark {
+    display: block;
+  }
+}
+
+html[data-theme-setting="dark"] {
+  #light-toggle-system {
+    display: none;
+  }
+
+  #light-toggle-dark {
+    padding-left: 10px;
+    padding-top: 12px;
+    display: block;
+  }
+
+  #light-toggle-light {
+    display: none;
+  }
+
+  #back-to-top {
+    color: var(--global-back-to-top-text-color);
+    background: var(--global-back-to-top-bg-color);
+  }
+}
+
+html[data-theme-setting="light"] {
+  #light-toggle-system {
+    display: none;
+  }
+
+  #light-toggle-dark {
+    display: none;
+  }
+
+  #light-toggle-light {
+    padding-left: 10px;
+    padding-top: 12px;
+    display: block;
+  }
+}

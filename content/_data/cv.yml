@@ -1,0 +1,16 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Xinli Long
+    - name: Languages
+      value: English, Mandarin
+
+- title: Education
+  type: time_table
+  contents:
+    - title:
+      institution:
+      year:
+      description:
+        -
