@@ -2,15 +2,122 @@
   type: map
   contents:
     - name: Full Name
-      value: Xinli Long
+      value: Xinni Long
     - name: Languages
-      value: English, Mandarin
+      value: Chinese (Native), English (Professional)
+
+- title: Current Position
+  type: time_table
+  contents:
+    - title: Research Associate
+      institution: Digital Media and Society Institute (DMSI), University of Liverpool
+      year: Apr 2026-Present
+      description:
+        - Awarded a PGR Research Associateship through the School of the Arts competitive fund, supporting UKRI/ESRC grant applications and REF 2029 Impact Case Study on digital inclusion policy.
+        - Applied independently to the British Academy/Leverhulme Small Research Grants scheme, proposing a comparative Policy Delphi on AI-driven workforce change and digital inequality across the UK and China.
+        - Made intellectual contributions to grant proposals on AI-enabled disinformation and hybrid threat dynamics for ESRC and EU Horizon proposals.
+        - Played an active role in building the REF 2029 impact case for digital inclusion, designing stakeholder workshops and gathering impact testimony across three national partnerships (GMCA, Scottish Government, Good Things Foundation).
 
 - title: Education
   type: time_table
   contents:
-    - title:
-      institution:
-      year:
+    - title: Ph.D in Communication and Media
+      institution: University of Liverpool
+      year: Oct 2020-Dec 2025
       description:
-        -
+        - Thesis: Digital literacy in higher education: Comparing the UK and China
+        - Supervisor: Prof Simeon Yates (primary), Dr Gianfranco Polizzi (secondary)
+    - title: MA in Digital Journalism
+      institution: Goldsmiths, University of London
+      year: Oct 2017-Dec 2018
+      description:
+        - Department of Media, Communications and Cultural Studies
+    - title: BA in Broadcast and Hosting Art
+      institution: Yunnan Arts University, China
+      year: Sep 2012-Sep 2016
+      description:
+        - Department of Drama
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Ph.D Project — Digital literacy in higher education: Comparing the UK and China
+      institution: University of Liverpool
+      year: Oct 2020-Dec 2025
+      description:
+        - Designed and led cross-cultural research project across 36 UK and Chinese universities, managing complex stakeholder relationships and dual regulatory approval processes.
+        - Conducted large-scale quantitative analysis (n = 1,100) using GLM, MANOVA, chi-square, and factor analysis in SPSS and R.
+        - Conducted 8 semi-structured interviews with educators and 10 focus groups with university students (60+ participants).
+        - Invited to contribute to the UK Government Essential Digital Skills Framework Review Advisory Panel (March 2022).
+    - title: Research Assistant — Towards Digital Inclusivity in the Humanities
+      institution: University of Liverpool
+      year: Feb 2024-Sep 2024
+      description:
+        - Designed Qualtrics surveys and analyzed quantitative data to identify barriers to digital inclusion in academic research and teaching.
+        - Created training materials for digital social science research methods based on empirical findings.
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: University of Liverpool
+      year: Sep 2023-Sep 2024
+      description:
+        - Delivered 100+ hours of seminars on research methods (Survey, Interview, Focus group, Discourse Analysis) to 200+ students, achieving 95% satisfaction rating.
+        - Mentored 5 undergraduate dissertation projects.
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Student Ambassador
+      institution: University of Liverpool
+      year: Sep 2022-Dec 2024
+      description:
+        - Supported university admissions operations and produced video and social media content for official university platforms.
+    - title: Reporter
+      institution: CCTV7 Channel, China
+      year: Apr 2019-Sep 2019
+      description:
+        - Led editorial review of 50+ grassroots reporter submissions monthly for a national audience of 100m+.
+        - Developed digital media strategy increasing channel engagement by 40%.
+    - title: Co-Founder & Producer
+      institution: Physical Drama Production, Edinburgh Fringe Festival
+      year: Feb 2018-Aug 2018
+      description:
+        - Co-initiated theatrical production, achieving 100% ticket sales for 4-day festival run.
+    - title: PR Intern
+      institution: Invigor Communications, UK
+      year: Sep 2018-Dec 2018
+    - title: Intern Journalist
+      institution: East London Lines, UK
+      year: Oct 2017-Dec 2017
+
+- title: Funding and Awards
+  type: time_table
+  contents:
+    - year: 2021-2023
+      items:
+        - CSC Scholarship — Competitive three-year doctoral funding
+    - year: 2015
+      items:
+        - 2nd Prize of "Beautiful New Anchor" Contest, China
+        - 3rd Prize of Yunnan TV International Channel English Host Competition, China
+
+- title: Conference Presentations
+  type: time_table
+  contents:
+    - title: European Communication Research and Education Association Conference (ECREA)
+      institution: Porto
+      year: Sep 2023
+      description:
+        - Presented findings on how digital competency gaps shape educational outcomes and civic participation across distinct political and institutional systems.
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Data Analysis
+      items:
+        - SPSS, R, Python, Atlas.ti, NVivo
+    - title: Digital Media
+      items:
+        - Content creation, Video production, Social media strategy
