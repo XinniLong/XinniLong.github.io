@@ -26,12 +26,12 @@ Her doctoral research — one of the first large-scale mixed-methods comparative
 
 # Research Interests
 
+- Social, political and cultural impacts of digital media
 - Digital inequality and digital literacy
 - Digital citizenship
 - Cross-cultural comparative research
 - Algorithmic imaginaries and AI literacy
 - Educational policy and technology integration
-- Social, political and cultural impacts of digital media
 
 ---
 
